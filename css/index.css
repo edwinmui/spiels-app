@@ -95,6 +95,12 @@ body {
     }
 }
 
+@media (min-width: 768px) {
+    .desktop-margin {
+        margin-top: 3em;
+    }
+}
+
 .mockup-image {
     height: 470px;
     width: 370px;
