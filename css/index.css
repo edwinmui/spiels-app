@@ -95,6 +95,11 @@ body {
     }
 }
 
+.center-image {
+    display: flex;
+    justify-content: center;
+}
+
 @media (min-width: 768px) {
     .desktop-margin {
         margin-top: 3em;
@@ -102,8 +107,8 @@ body {
 }
 
 .mockup-image {
-    height: 430px;
-    width: 330px;
+    height: 400px;
+    width: 300px;
 }
 
 @media (min-width: 768px) {
