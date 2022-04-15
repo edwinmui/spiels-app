@@ -102,8 +102,15 @@ body {
 }
 
 .mockup-image {
-    height: 470px;
-    width: 370px;
+    height: 430px;
+    width: 330px;
+}
+
+@media (min-width: 768px) {
+    .mockup-image {
+        height: 470px;
+        width: 370px;
+    }
 }
 
 .font-xs {
